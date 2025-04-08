@@ -1,0 +1,27 @@
+Columna,Descripción,Tipo de dato
+unit_number,Identificador del motor (unidad),int64
+time_cycles,Número de ciclo de operación(tiempo),int64
+operational_setting_1,Ajuste operacional 1,float64
+operational_setting_2,Ajuste operacional 2,float64
+operational_setting_3,Ajuste operacional 3,float64
+s_1,(Fan inlet temperature) (°R),float64
+s_2,(LPC outlet temperature) (°R),float64
+s_3,(HPC outlet temperature) (°R),float64
+s_4,(LPT outlet temperature) (°R),float64
+s_5,(Fan inlet Pressure) (psia),float64
+s_6,(Bypass-duct pressure) (psia),float64
+s_7,(HPC outlet pressure) (psia),float64
+s_8,(Physical fan speed) (rpm),float64
+s_9,(Physical core speed) (rpm),float64
+s_10,(Engine pressure ratio (P50/P2)),float64
+s_11,(HPC outlet Static pressure) (psia),float64
+s_12,(Ratio of fuel flow to Ps30) (pps/psia),float64
+s_13,(Corrected fan speed) (rpm),float64
+s_14,(Corrected core speed) (rpm),float64
+s_15,(Bypass Ratio),float64
+s_16,(Burner fuel-air ratio),float64
+s_17,(Bleed Enthalpy),float64
+s_18,(Required fan speed),float64
+s_19,(Required fan conversion speed),float64
+s_20,(High-pressure turbines Cool air flow),float64
+s_21,(Low-pressure turbines Cool air flow),float64
